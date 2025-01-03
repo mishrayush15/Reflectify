@@ -12,7 +12,7 @@ git clone https://github.com/mishrayush15/Reflectify
 
 2. Getting into the folder
 ```
-cd reflectify
+cd Reflectify
 ```
 
 3. Initializing node_modules
