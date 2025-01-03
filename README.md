@@ -1,13 +1,13 @@
 # Reflectify : A simple app that makes you think about yourself
 
-### Link to visit the website --> url-here
+### Link to visit the website --> https://reflectify-gold.vercel.app/
 ##
 
 ### Steps to run the project locally :
 
 1. Clone the repository
 ```
-git clone <url>
+git clone https://github.com/mishrayush15/Reflectify
 ```
 
 2. Getting into the folder
